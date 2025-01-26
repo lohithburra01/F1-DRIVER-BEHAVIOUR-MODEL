@@ -1,7 +1,3 @@
-Here's an updated README description incorporating your project's goals and future plans:
-
----
-
 # Formula 1 Driver Behavior Simulation
 
 This Jupyter Notebook is part of a project aimed at simulating the driving behavior of Formula 1 drivers based on real telemetry data. The current focus is on analyzing and generating driving patterns of **Max Verstappen** during the **Monaco Grand Prix**. Future iterations of this project will include a broader set of drivers and circuits, creating a comprehensive library of driver behaviors across different race tracks.
@@ -47,6 +43,3 @@ pip install numpy pandas torch scikit-learn matplotlib scipy
 3. **Results & Visualization:**  
    - Analyzing the simulation outputs with plots and comparisons.
 
----
-
-Let me know if you'd like any further refinements!
